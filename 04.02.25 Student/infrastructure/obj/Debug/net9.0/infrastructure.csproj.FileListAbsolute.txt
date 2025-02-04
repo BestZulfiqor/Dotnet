@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\bin\Debug\net9.0\infrastructure.deps.json
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\bin\Debug\net9.0\infrastructure.dll
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\bin\Debug\net9.0\infrastructure.pdb
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\infrastructure.sourcelink.json
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\infrastructure.dll
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\refint\infrastructure.dll
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\infrastructure.pdb
+C:\Users\Admin\Desktop\Dotnet\04.02.25 Student\infrastructure\obj\Debug\net9.0\ref\infrastructure.dll
