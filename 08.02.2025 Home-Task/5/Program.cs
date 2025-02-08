@@ -4,7 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        Payment pay = new Payment();
+        pay.AddMoney(200);
+        pay.TakeMoney();
     }
 }
 class Payment
