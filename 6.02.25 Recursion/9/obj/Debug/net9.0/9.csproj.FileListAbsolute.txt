@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\bin\Debug\net9.0\9.exe
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\bin\Debug\net9.0\9.deps.json
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\bin\Debug\net9.0\9.runtimeconfig.json
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\bin\Debug\net9.0\9.dll
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\bin\Debug\net9.0\9.pdb
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\9.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\9.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\9.sourcelink.json
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\9.dll
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\refint\9.dll
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\9.pdb
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\9.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Dotnet\6.02.25 Recursion\9\obj\Debug\net9.0\ref\9.dll

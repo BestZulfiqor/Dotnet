@@ -5,7 +5,7 @@ class Program
     static void NaturalNums(int a = 0)
     {
         if (a == 50)
-        {
+        {я
             return;
         }
         else{

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\6.02.25 Recursion\\9\\9.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Dotnet\\6.02.25 Recursion\\9\\9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\6.02.25 Recursion\\9\\9.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Dotnet\\6.02.25 Recursion\\9\\9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\6.02.25 Recursion\\9\\9.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\6.02.25 Recursion\\9\\9.csproj",
         "projectName": "9",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\6.02.25 Recursion\\9\\9.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\6.02.25 Recursion\\9\\9.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\6.02.25 Recursion\\9\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\6.02.25 Recursion\\9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

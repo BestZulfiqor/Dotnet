@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\6.02.25 Recursion\\4\\4.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\6.02.25 Recursion\\4\\4.csproj",
       "projectName": "4",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\6.02.25 Recursion\\4\\4.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\6.02.25 Recursion\\4\\4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\6.02.25 Recursion\\4\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\6.02.25 Recursion\\4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
