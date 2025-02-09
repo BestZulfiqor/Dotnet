@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../infrastructure/infrastructure.csproj",
+      "msbuildProject": "../infrastructure/infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\08.02.2025 Home-Task\\5\\5.csproj",
-      "projectName": "5",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\08.02.2025 Home-Task\\5\\5.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\Console\\Console.csproj",
+      "projectName": "Console",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\Console\\Console.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\08.02.2025 Home-Task\\5\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\infrastructure\\infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\infrastructure\\infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Dotnet\\08.02.2025 Home-Task\\5\\5.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\infrastructure\\infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Dotnet\\08.02.2025 Home-Task\\5\\5.csproj": {
+    "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\infrastructure\\infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\08.02.2025 Home-Task\\5\\5.csproj",
-        "projectName": "5",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\08.02.2025 Home-Task\\5\\5.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\infrastructure\\infrastructure.csproj",
+        "projectName": "infrastructure",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\infrastructure\\infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\08.02.2025 Home-Task\\5\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\09.02.25 Home-task\\infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
