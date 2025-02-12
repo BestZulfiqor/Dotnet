@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Exam\Infrastucture\bin\Debug\net9.0\Infrastucture.deps.json
+C:\Users\Admin\Desktop\Exam\Infrastucture\bin\Debug\net9.0\Infrastucture.dll
+C:\Users\Admin\Desktop\Exam\Infrastucture\bin\Debug\net9.0\Infrastucture.pdb
+C:\Users\Admin\Desktop\Exam\Infrastucture\bin\Debug\net9.0\Domain.dll
+C:\Users\Admin\Desktop\Exam\Infrastucture\bin\Debug\net9.0\Domain.pdb
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\Infrastucture.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\Infrastu.D9A2AE6E.Up2Date
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\Infrastucture.dll
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\refint\Infrastucture.dll
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\Infrastucture.pdb
+C:\Users\Admin\Desktop\Exam\Infrastucture\obj\Debug\net9.0\ref\Infrastucture.dll
