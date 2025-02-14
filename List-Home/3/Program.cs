@@ -15,10 +15,6 @@ class Program
         System.Console.WriteLine($"Средный возрасть студентов: {students.Average(n => n.Age)}");
         System.Console.WriteLine("\nПолная информация о студентах: ");
         System.Console.WriteLine(string.Join("\n", students.Select(n => $"Имя: {n.Name}, Возрасть: {n.Age}, Курс: {n.Course}")));
-
-        students.Select(s => $"{s.Name} - {s.Age} лет - {s.Course} курс")
-                .ToList()
-                .ForEach(Console.WriteLine);
     }
 }
 class Student
