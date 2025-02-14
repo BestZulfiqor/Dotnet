@@ -19,6 +19,6 @@ public class CardioWorkout : Workout
                 caloriesPerKm = 100;
                 break;
         }
-        return Distanse * caloriesPerKm;
+        return Distanse * caloriesPerKm * Duration;
     }
 }
