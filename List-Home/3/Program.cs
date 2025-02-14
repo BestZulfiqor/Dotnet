@@ -10,7 +10,10 @@ class Program
         List<Student> students = new List<Student>() { student1, student2, student3 };
         System.Console.WriteLine($"Все студенты 3-го курса: {string.Join(", ", students.FindAll(n => n.Course == 3))}");
         System.Console.WriteLine($"Имена студентов которые больше 20 лет: {string.Join(", ", students.FindAll(n => n.Age > 20))}");
-        students.OrderBy(n => n.Age);
+        foreach (var item in students.OrderBy(n => n.Age))
+        {
+            System.Console.WriteLine(item.Age);
+        }
         System.Console.WriteLine($"Самый молодой студент: " + students.Min(n => n.Age));
         System.Console.WriteLine($"Средный возрасть студентов: {students.Average(n => n.Age)}");
         System.Console.WriteLine("\nПолная информация о студентах: ");
