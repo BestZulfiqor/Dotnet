@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Exam\\Infrastucture\\Infrastucture.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\Exam Clinic\\Infrastucture\\Infrastucture.csproj",
       "projectName": "Infrastucture",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Exam\\Infrastucture\\Infrastucture.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Exam Clinic\\Infrastucture\\Infrastucture.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Exam\\Infrastucture\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Exam Clinic\\Infrastucture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\Exam\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Exam\\Domain\\Domain.csproj"
+            "C:\\Users\\Admin\\Desktop\\Dotnet\\Exam Clinic\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Exam Clinic\\Domain\\Domain.csproj"
             }
           }
         }

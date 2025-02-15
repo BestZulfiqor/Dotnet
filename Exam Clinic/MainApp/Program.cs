@@ -20,7 +20,6 @@ class Program
         {
             System.Console.WriteLine($"Name: {item.Name}, Age: {item.Age}, Special: {item.Specialization}");
         };
-
         clinic.RegisterPatient(patient1);
 
         System.Console.WriteLine("Вывод пациентов доктора");

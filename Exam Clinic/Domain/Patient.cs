@@ -12,4 +12,5 @@ public class Patient : Person
     public void AddAppointment(Appointment appointment){
         Appointments.Add(appointment);
     }
+
 }
