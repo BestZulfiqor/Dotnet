@@ -28,7 +28,7 @@ class Program
         int sum = FoundSum(textWithNums);
         System.Console.WriteLine("Text: " + textWithNums + "\nSum: " + sum);
 
-        string polindrom = "sussw";
+        string polindrom = "Lol";
         System.Console.WriteLine($"Text: {polindrom} \nPolindrom: " + Polindrom(polindrom));
         Dates();
 
@@ -37,6 +37,10 @@ class Program
         string date2 = "01.01.2024";
         DateTime dateTime2 = DateTime.Parse(date2);
         System.Console.WriteLine(Substract(dateTime1, dateTime2) + " дней");
+
+        System.Console.Write("Enter password: ");
+        string pass = Console.ReadLine();
+
     }
     static string Password(string pass)
     {
@@ -44,9 +48,13 @@ class Program
         {
             return "Change password, this is too small!";
         }
-        else if (!pass.Any(x => x >= '0' && x <= '9')) // Если нет цифр
+        else if (!pass.Any(x => x >= '0' && x <= '9'))
         {
             return "Change password, it must have one digit!";
+        }
+        else if (!pass.Any(char.IsUpper))
+        {
+            return "Change password, it must have upper symbol";
         }
         else
         {
@@ -65,7 +73,8 @@ class Program
     }
     static bool Polindrom(string s)
     {
-        return s.OrderBy(x => x) == s.OrderByDescending(x => x);
+        string reversed = new string(s.ToLower().Reverse().ToArray());
+        return s.ToLower() == reversed;
     }
     static int FoundSum(string s)
     {
