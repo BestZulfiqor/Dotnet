@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Social Network\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Social Network\\Domain\\Domain.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Social Network\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Social Network\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Social Network\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Social Network\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Social Network\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Social Network\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Social Network\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Social Network\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Social Network\\Domain\\Domain.csproj"
+              "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Social Network\\Domain\\Domain.csproj"
               }
             }
           }
