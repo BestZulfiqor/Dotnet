@@ -67,8 +67,8 @@ while (true)
                 break;
             case 5:
                 System.Console.Write("Enter category id: ");
-                int categoryId = int.Parse(System.Console.ReadLine());
-                var articlesByCategory = mediumStore.GetArticlesByCategory(categoryId);
+                int categoryId1 = int.Parse(System.Console.ReadLine());
+                var articlesByCategory = mediumStore.GetArticlesByCategory(categoryId1);
                 foreach (var article in articlesByCategory)
                 {
                     System.Console.WriteLine($"Id: {article.ID}. {article.Title}, {article.Content}");
@@ -77,8 +77,8 @@ while (true)
                 break;
             case 6:
                 System.Console.Write("Enter author id: ");
-                int authorId = int.Parse(System.Console.ReadLine());
-                var articlesByAuthor = mediumStore.GetArticlesByAuthor(authorId);
+                int authorId1 = int.Parse(System.Console.ReadLine());
+                var articlesByAuthor = mediumStore.GetArticlesByAuthor(authorId1);
                 foreach (var article in articlesByAuthor)
                 {
                     System.Console.WriteLine($"Id: {article.ID}. {article.Title}, {article.Content}");

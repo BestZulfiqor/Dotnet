@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Domain\\Domain.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Medium\\Medium\\Domain\\Domain.csproj"
+              "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\Medium\\Medium\\Domain\\Domain.csproj"
               }
             }
           }

@@ -24,7 +24,7 @@ public class MediumStore
 
         if (!user.Email.Contains("@")) return false;
         if (user.Password.Length < 6) return false;
-        if (String.IsNullOrEmpty(user.Name)) return false;
+        if (string.IsNullOrEmpty(user.Name)) return false;
 
         Users.Add(user);
         return true;
