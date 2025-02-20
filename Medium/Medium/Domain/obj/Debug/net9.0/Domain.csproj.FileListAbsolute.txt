@@ -20,3 +20,15 @@ C:\Users\Admin\Desktop\Medium\Medium\Domain\obj\Debug\net9.0\Domain.dll
 C:\Users\Admin\Desktop\Medium\Medium\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Users\Admin\Desktop\Medium\Medium\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\Admin\Desktop\Medium\Medium\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\Admin\Desktop\Dotnet\Medium\Medium\Domain\obj\Debug\net9.0\ref\Domain.dll

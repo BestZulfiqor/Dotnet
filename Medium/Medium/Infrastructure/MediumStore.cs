@@ -79,6 +79,10 @@ public class MediumStore
     }
     public List<Article> GetAllArticles()
     {
+        foreach (var article in Articles)
+        {
+            article.ViewsCount++;
+        }
         return Articles;
     }
     public List<Article> GetArticlesByCategory(int categoryId)
